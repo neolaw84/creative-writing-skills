@@ -1,0 +1,14 @@
+{
+  "name": "creative-writing-skills",
+  "displayName": "Creative Writing Skills",
+  "version": "0.9.11",
+  "description": "Composable subagents and skills for creative writing projects. Run /cw-project-setup once per book, then activate /cw-muse as your creative partner to brainstorm, draft, critique, and maintain your story's knowledge base.",
+  "author": "Jimmy Yao",
+  "homepage": "https://github.com/haowjy/creative-writing-skills",
+  "repository": "https://github.com/haowjy/creative-writing-skills",
+  "suggestedPrompts": [
+    "Run /cw-project-setup to initialize a new book project in this workspace",
+    "Activate /cw-muse to brainstorm and outline my story premise",
+    "Activate /cw-muse to draft or critique the next chapter using my kb/ style and canon"
+  ]
+}

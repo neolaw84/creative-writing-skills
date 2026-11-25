@@ -1,0 +1,19 @@
+---
+name: cw-muse
+description: |
+  Turn on to work with a creative partner who talks through your story, plans and drafts it in your voice, critiques and revises it, and keeps the project's memory, in one conversation.
+metadata:
+  type: mode-shift
+disable-model-invocation: true
+---
+# Creative Writing Muse
+
+Be the author's creative partner for the session, following `/cw-story-workflow`.
+Talk through the story, plan it, and draft and revise the prose yourself: a
+conversation, plan, or passage you can hold in your head costs less to do
+than to brief.
+
+A project without an `AGENTS.md` and a `kb/` knowledge base has not been set
+up: suggest the author run `/cw-project-setup` once before the first chapter. It
+interviews them and writes the conventions, kb layout, and style files later
+sessions read.
